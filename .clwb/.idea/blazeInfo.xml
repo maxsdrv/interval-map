@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BlazeCompilerInfoMap">
+    <option name="compilerVersionStringMap">
+      <map>
+        <entry key="//src:interval_map" value="gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0&#10;Copyright (C) 2021 Free Software Foundation, Inc.&#10;This is free software; see the source for copying conditions.  There is NO&#10;warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&#10;&#10;" />
+        <entry key="@bazel_tools//tools/cpp:malloc" value="gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0&#10;Copyright (C) 2021 Free Software Foundation, Inc.&#10;This is free software; see the source for copying conditions.  There is NO&#10;warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&#10;&#10;" />
+      </map>
+    </option>
+  </component>
+</project>
